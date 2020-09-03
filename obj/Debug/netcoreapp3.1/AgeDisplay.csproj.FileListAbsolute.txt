@@ -1,0 +1,13 @@
+C:\Users\Luis\C#\AgeDisplay\bin\Debug\netcoreapp3.1\AgeDisplay.exe
+C:\Users\Luis\C#\AgeDisplay\bin\Debug\netcoreapp3.1\AgeDisplay.deps.json
+C:\Users\Luis\C#\AgeDisplay\bin\Debug\netcoreapp3.1\AgeDisplay.runtimeconfig.json
+C:\Users\Luis\C#\AgeDisplay\bin\Debug\netcoreapp3.1\AgeDisplay.runtimeconfig.dev.json
+C:\Users\Luis\C#\AgeDisplay\bin\Debug\netcoreapp3.1\AgeDisplay.dll
+C:\Users\Luis\C#\AgeDisplay\bin\Debug\netcoreapp3.1\AgeDisplay.pdb
+C:\Users\Luis\C#\AgeDisplay\obj\Debug\netcoreapp3.1\AgeDisplay.csprojAssemblyReference.cache
+C:\Users\Luis\C#\AgeDisplay\obj\Debug\netcoreapp3.1\AgeDisplay.AssemblyInfoInputs.cache
+C:\Users\Luis\C#\AgeDisplay\obj\Debug\netcoreapp3.1\AgeDisplay.AssemblyInfo.cs
+C:\Users\Luis\C#\AgeDisplay\obj\Debug\netcoreapp3.1\AgeDisplay.csproj.CoreCompileInputs.cache
+C:\Users\Luis\C#\AgeDisplay\obj\Debug\netcoreapp3.1\AgeDisplay.dll
+C:\Users\Luis\C#\AgeDisplay\obj\Debug\netcoreapp3.1\AgeDisplay.pdb
+C:\Users\Luis\C#\AgeDisplay\obj\Debug\netcoreapp3.1\AgeDisplay.genruntimeconfig.cache
